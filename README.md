@@ -1,3 +1,5 @@
+This project named AirBnB_clone was written by the above names:
+
 IYENAGBE RAYMOND OGEYANOR github.com/iyenagbe
 
 GABRIEL IFEANYI: github.com/Zeelgabriels
