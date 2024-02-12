@@ -1,4 +1,4 @@
-This project is a collaboration project on ALXSE program on AirBnB clone - The console
+This is a collaboration project on ALXSE program on AirBnB clone - The console
 
 ![Alt](https://user-images.githubusercontent.com/88311316/151070609-19608294-829e-408b-b2b3-5d1f2873f1e3.png "AirBnB clone")
 
