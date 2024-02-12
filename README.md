@@ -13,5 +13,6 @@ Partner 2: Gabriel Ifeanyi (https://github.com/Zeelgabriels) was present
                 Push it to your repository.
                 Pull request(Merge it)
 
-	Project Structure - Server side (Back-end) and Client side (Front-end)
-![Alt](https://i.imgur.com/lgZnZrz.png "Project structure")
+
+<h1>Project Structure</h1> - Server side (Back-end) and Client side (Front-end)
+ ![Alt](https://i.imgur.com/lgZnZrz.png "Project structure")
